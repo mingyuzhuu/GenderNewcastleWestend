@@ -1,7 +1,7 @@
 ## Gender-inclusive Cities
-*Porject website*
+*Project website*
 * https://hosting.northumbria.ac.uk/gender-inclusive-cities/
 
-*Pulications and other links*
+*Publications and other links*
 * https://eprints.gla.ac.uk/332206/
 * https://www.youtube.com/watch?v=2EQHal0cDio
