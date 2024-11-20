@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "cityCentre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 424765.384447077754885, 563935.468842058209702 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 424765.384447077754885, 563935.468842058209702 ] } }
+]
+}
